@@ -6,7 +6,8 @@
 
 
 <p>Arduino Game for Kids: A fun and interactive game designed to entertain children during hospital stays. Our game runs on an Arduino platform, aiming to reduce children's anxiety and provide them with a joyful distraction.</p>
-![image](https://github.com/Victor-Otsuga/Sprint3-Edge/assets/105857027/ae1648de-c630-4615-86af-087611fd6803)
+<img src="https://github.com/Victor-Otsuga/Sprint3-Edge/assets/105857027/be77b8e3-dbcb-4108-8715-bfaa9929b236"/>
+
 
 
 ### The wires represents:
