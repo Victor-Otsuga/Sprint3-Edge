@@ -17,7 +17,7 @@
 + 🟣⚪ the passage of information betwenn the Arduino and the board-ssd1306.
 
 ### How to run the application:
-1) Click: [https://www.tinkercad.com/things/fMj0DPhAl9r](https://wokwi.com/projects/394344518521363457)
+1) Click: https://wokwi.com/projects/394344518521363457
 2) Make sure to install "U8g2" library.
 3) Click on "Start the Simulation"
 4) Just Play :)
