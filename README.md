@@ -21,3 +21,8 @@
 2) Make sure to install "U8g2" library.
 3) Click on "Start the Simulation"
 4) Just Play :)
+
+## Group Members
+#### Victor Augusto   RM 553518
+#### Vitor Moura      RM 553806
+#### Luiz Andrade     RM553605
